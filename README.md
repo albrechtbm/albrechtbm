@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi! 👋 I'm Albrecht
 
-<!--
-**albrechtbm/albrechtbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with a Finance background and MBA passionate about transforming data into actionable business insights.
 
-Here are some ideas to get you started:
+📍 Mexico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 SQL | Power BI | Python 
+
+💼 Finance | Business Intelligence | Analytics
+
+---
+
+## About Me
+
+I specialize in analyzing business data, developing KPI dashboards, and generating insights that support strategic decision-making.
+
+My background in finance, strategic planning, and process optimization allows me to connect business objectives with data-driven solutions.
+
+---
+
+## Technical Skills
+
+### Data Analytics
+
+- SQL
+- Python (Pandas, NumPy, Matplotlib)
+- Power BI
+- Tableau
+
+### Business Intelligence
+
+- Dashboard Development
+- KPI Design
+- Data Visualization
+- Data Modeling
+
+### Business & Finance
+
+- Financial Analysis
+- Budgeting
+- Strategic Planning
+- Process Optimization
+
+---
+
+## Featured Projects
+
+📈 Rappi Customer Analytics
+
+📊 Business Performance Dashboard
+
+📉 Financial KPI Analysis
+
+🛒 Customer Behavior Analysis
+
+---
+
+## Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/albrecht-bocanegra-financial-analyst
